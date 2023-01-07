@@ -147,6 +147,11 @@ color: #444343;
   text-align: center;
   padding-top: 62px;
 }
+.plan-div1 p{
+  color: #737272;
+  padding-top: 15px;
+  font-size: 20px;
+}
 
 
 /* banner-2-section */
@@ -264,4 +269,12 @@ p {
 
 .footer-left-part img {
   margin-right: 7px;
+}
+.footer{
+  text-align: center;
+  font-size: 18px;
+  color: white;
+  height: fit-content;
+  font-family: Cursive;
+
 }

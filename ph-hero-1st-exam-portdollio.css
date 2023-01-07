@@ -40,7 +40,7 @@ font-size: 25px;
   font-size: 15px;
   padding: 20px;
   width: 109px;
-  background: #F15B22;
+  background: #f15b22;
   color: white;
   border: none;
   border-radius: 10px;
@@ -58,16 +58,17 @@ font-size: 25px;
   align-items: center;
   background-image: url("./new-year-new-me-main/images/banner/banner1.png");
   background-repeat: no-repeat;
-/* border: 1px solid red; */
 background-size: cover;
 /* background-position: 34px -58px; */
 margin:0 auto;
+border-radius: 25px;
 
 }
 .photo-div img{
   height: 415px;
   width: 746px;
   margin-left: 50px;
+  
  
   
 }
@@ -182,7 +183,7 @@ color: #444343;
 .plans-divs div {
   height: 300px;
   width: 300px;
-  background: #FFFFFF;
+  background: #ffffff;
   box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
   border-radius: 5px;
 }
@@ -218,7 +219,7 @@ color: #444343;
 .banner-2-section h1 {
   font-size: 35px;
   padding: 25px 25px 25px 0;
-  color: #FFFFFF;
+  color: #ffffff;
   /* margin-left: 30px; */
 }
 
@@ -227,7 +228,7 @@ color: #444343;
   padding: 20px;
   width: 145px;
   background: white;
-  color: #F15B22;
+  color: #f15b22;
   border: none;
   border-radius: 5px;
   /* margin-left: 30px; */
@@ -242,7 +243,6 @@ color: #444343;
 footer {
   width: 1600px;
   height: 577px;
-  /* border: 1px solid red; */
   margin-top: 50px;
   display: flex;
   justify-content: center;
@@ -254,7 +254,7 @@ footer {
 
 footer h1,
 p {
-  color: #F8F8F8;
+  color: #f8f8f8;
 }
 
 .footer-left-part div {
@@ -286,20 +286,21 @@ p {
 }
 
 .footer-right-part input {
-  color: #F3F3F3;
+  color: #f3f3f3;
   width: 325px;
   height: 65px;
   padding-left: 20px;
   border-radius: 5px;
   font-weight: 400;
   font-size: 18px;
+  background: #151414;
 }
 
 .footer-right-part button {
   font-size: 15px;
   padding: 20px;
   width: 145px;
-  background: #F15B22;
+  background: #f15b22;
   color: white;
   border: none;
   border-radius: 5px;
@@ -320,5 +321,4 @@ p {
   color: white;
   height: fit-content;
   font-family: Cursive;
-
 }

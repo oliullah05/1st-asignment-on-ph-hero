@@ -2,6 +2,48 @@
   margin: 0;
   padding: 0;
 }
+/* navbar-section */
+/* navbar-section */
+
+
+.nasted-navbar-section{
+  display: flex;
+justify-content: space-between;
+align-items: center;
+border: 1px solid red;
+width: 1550px;
+padding: 25px;
+background-color: rgba(0, 0, 255, 0.191);
+margin: auto;
+height: 17px;
+}
+.nasted-navbar-section h1{
+  font-size: 35px;
+  margin-left: 196px;
+}
+.navbar ul {
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 15px;
+}
+.navbar ul li {
+list-style: none;
+
+}
+.navbar ul li a {
+list-style: none;
+text-decoration: none;
+font-size: 25px;
+}
+
+
+
+
+
+
+
+
 
 /* Header Section styles */
 
